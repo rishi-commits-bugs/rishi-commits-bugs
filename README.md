@@ -1,5 +1,6 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there!
+# Hey
 
-Hi, I’m **Rishi**, a developer who writes code, ships features, and occasionally befriends bugs 🐛.
+I'm Rishi. I write code, build things, and keep it simple.
 
-*"If it's working, don't ask why. If it's not, blame caching!"*
+You can check out more of my work here:  
+[github.com/Rishab-Kumar-R](https://github.com/Rishab-Kumar-R)
